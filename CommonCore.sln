@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30406.217
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csproj", "{70F5C170-F91B-4C11-BC18-27B345A3EF3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommonCore", "Common\CommonCore.csproj", "{70F5C170-F91B-4C11-BC18-27B345A3EF3E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common.DataAccess", "Common.DataAccess\Common.DataAccess.csproj", "{B85043E8-5502-4DCF-91D0-0A6507321C05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommonCore.DataAccess", "Common.DataAccess\CommonCore.DataAccess.csproj", "{B85043E8-5502-4DCF-91D0-0A6507321C05}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common.Logger", "Common.Logger\Common.Logger.csproj", "{FEACCB8E-6D37-431B-91F9-8870E2B9C657}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommonCore.Logger", "Common.Logger\CommonCore.Logger.csproj", "{FEACCB8E-6D37-431B-91F9-8870E2B9C657}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -34,3 +34,4 @@ Global
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A53568C7-D60F-4BCA-97EB-17A9458FDC7C}
 	EndGlobalSection
+EndGlobal

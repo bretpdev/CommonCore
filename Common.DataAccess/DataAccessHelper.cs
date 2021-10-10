@@ -33,7 +33,7 @@ namespace Common.DataAccess
 
         public static T ExecuteSingle<T>(string command, Databases db, SqlParameter[] parameters)
         {
-            return null;
+            throw new NotImplementedException();
         }
 
         public static int ExecuteId<T>(string command, Databases db, SqlParameter[] parameters)
