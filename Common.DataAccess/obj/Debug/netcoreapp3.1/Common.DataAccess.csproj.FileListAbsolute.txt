@@ -1,0 +1,12 @@
+Z:\Projects\Common\Common.DataAccess\obj\Debug\netcoreapp3.1\Common.DataAccess.csprojAssemblyReference.cache
+Z:\Projects\Common\Common.DataAccess\obj\Debug\netcoreapp3.1\Common.DataAccess.AssemblyInfoInputs.cache
+Z:\Projects\Common\Common.DataAccess\obj\Debug\netcoreapp3.1\Common.DataAccess.AssemblyInfo.cs
+Z:\Projects\Common\Common.DataAccess\bin\Debug\netcoreapp3.1\Common.DataAccess.exe
+Z:\Projects\Common\Common.DataAccess\bin\Debug\netcoreapp3.1\Common.DataAccess.deps.json
+Z:\Projects\Common\Common.DataAccess\bin\Debug\netcoreapp3.1\Common.DataAccess.runtimeconfig.json
+Z:\Projects\Common\Common.DataAccess\bin\Debug\netcoreapp3.1\Common.DataAccess.runtimeconfig.dev.json
+Z:\Projects\Common\Common.DataAccess\bin\Debug\netcoreapp3.1\Common.DataAccess.dll
+Z:\Projects\Common\Common.DataAccess\bin\Debug\netcoreapp3.1\Common.DataAccess.pdb
+Z:\Projects\Common\Common.DataAccess\obj\Debug\netcoreapp3.1\Common.DataAccess.dll
+Z:\Projects\Common\Common.DataAccess\obj\Debug\netcoreapp3.1\Common.DataAccess.pdb
+Z:\Projects\Common\Common.DataAccess\obj\Debug\netcoreapp3.1\Common.DataAccess.genruntimeconfig.cache

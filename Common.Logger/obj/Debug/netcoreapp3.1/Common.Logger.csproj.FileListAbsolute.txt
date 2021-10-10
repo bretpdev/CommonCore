@@ -1,0 +1,13 @@
+Z:\Projects\Common\Common.Logger\obj\Debug\netcoreapp3.1\Common.Logger.csprojAssemblyReference.cache
+Z:\Projects\Common\Common.Logger\obj\Debug\netcoreapp3.1\Common.Logger.AssemblyInfoInputs.cache
+Z:\Projects\Common\Common.Logger\obj\Debug\netcoreapp3.1\Common.Logger.AssemblyInfo.cs
+Z:\Projects\Common\Common.Logger\obj\Debug\netcoreapp3.1\Common.Logger.csproj.CoreCompileInputs.cache
+Z:\Projects\Common\Common.Logger\bin\Debug\netcoreapp3.1\Common.Logger.exe
+Z:\Projects\Common\Common.Logger\bin\Debug\netcoreapp3.1\Common.Logger.deps.json
+Z:\Projects\Common\Common.Logger\bin\Debug\netcoreapp3.1\Common.Logger.runtimeconfig.json
+Z:\Projects\Common\Common.Logger\bin\Debug\netcoreapp3.1\Common.Logger.runtimeconfig.dev.json
+Z:\Projects\Common\Common.Logger\bin\Debug\netcoreapp3.1\Common.Logger.dll
+Z:\Projects\Common\Common.Logger\bin\Debug\netcoreapp3.1\Common.Logger.pdb
+Z:\Projects\Common\Common.Logger\obj\Debug\netcoreapp3.1\Common.Logger.dll
+Z:\Projects\Common\Common.Logger\obj\Debug\netcoreapp3.1\Common.Logger.pdb
+Z:\Projects\Common\Common.Logger\obj\Debug\netcoreapp3.1\Common.Logger.genruntimeconfig.cache
